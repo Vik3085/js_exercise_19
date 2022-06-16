@@ -10,3 +10,7 @@ person2.firstName = "Simon";
 
 console.log(person1);
 console.log(person2);
+
+
+//Gli oggetti sono referenziati per valore e quando utilizziamo il simbolo uguale " = " 
+//copiamo il contenuto nella memoria
